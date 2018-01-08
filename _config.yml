@@ -1,0 +1,26 @@
+# Site settings
+name: "Crypto && Cocktails"
+description: "THE only podcast about cryptocurrencies that matters."
+url: "https://cryptococktails.pub"
+author: "0xADADA"
+
+# Build settings
+markdown: kramdown
+paginate: 10
+permalink: pretty
+sass:
+  style: compressed
+
+# Jekyll plugins
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Project settings
+exclude: [
+  Gemfile,
+  Gemfile.lock,
+  node_modules,
+  LICENSE,
+  README.md
+]
