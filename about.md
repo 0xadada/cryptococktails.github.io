@@ -13,6 +13,4 @@ Intro
 
 ## Introduction
 
-Normies discuss crypto and have a few drinks.
-
-a fun site.
+A few friends from diverse backgrounds discuss crypto, and have a few drinks.

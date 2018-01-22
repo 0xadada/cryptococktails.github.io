@@ -1,0 +1,67 @@
+---
+layout: page
+title: "Our First Episode - Episode 0001"
+displayTitle: "Our First Episode - Episode 0001"
+date: 2018-01-07 15:15:00
+excerpt: "Our First Episode - Episode 0001"
+metaDescription: "We discuss South Korea, CBOE futures settlements, Coinbase outage..."
+metaKeywords: podcast, podcasts, cryptocurrencies, bitcoin
+metaImage: /static/images/meta/apple-touch-icon.png
+metaOgType: "article"
+author: Ron. A
+license: cc-by-nc-sa
+---
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387375959&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+
+## South Korea Bans Crypto?
+
+South Korea doesn't want their citizens to pour all money into crypto; yet also
+don’t want to prevent the technology grow in s. korea
+
+## CBOE Bitcoin Futures Settling Day
+
+January 17th is CBOE bitcoin futures day. The first bitcoin futures traded on
+CBOE are settled. These were sold mostly around $16-$17k, so (if the theory
+works) it'll be interesting to see if the market rises to match that price or
+those selling these futures will loose. Ron predicts the market will slowly rise
+into March.
+
+## Coinbase Outage
+
+Coinbase outage on January 11th from 18:00 EST to just after midnight provides a
+window to the bitcoin transaction mempool without Coinbase transactions, it
+reveals a huge dropoff of utxos and the mempool starts clearing up immediately.
+Once Coinbase comes back online, there is a huge spike in utxos, [and forces the
+transaction fee higher](twitter.com/CivEkonom/status/951693684692701184).
+
+<figure>
+  <img src="/static/images/2017-01-12-uxtos.jpg"
+    alt="Graph showing Coinbase outage resulting in uxto mempool clearing up"
+    title="Graph showing Coinbase outage resulting in uxto mempool clearing up">
+  <figcaption>Graph showing Coinbase outage resulting in uxto mempool clearing up</figcaption>
+</figure>
+
+Coinbase needs to start batching their transactions, and using SegWit addresses
+to help reduce the problem of network spam and providing cheaper fees for their
+customers, and generally be a decent bitcoin network citizen.
+
+## Bitcoin BIP 117 Tail Call Semantic
+
+Bitcoin tail call semantics PR for BIP 117: Tail-call semantics is a sort of
+user-programmable P2SH which combines well with BIP 116's MERKLEBRANCHVERIFY to
+allows for a script to commit to a practically unbounded number of code
+pathways, and then reveal the actual code pathway used at spend time, achieving
+a form of generalized MAST.
+
+## Overstock.com refund hack
+
+Overstock.com refunds Bitcoin Cash purchases with the equal amount in Bitcoin.
+
+
+## Drinks
+
+Goose Island IPA, Protein shake, Casebianche Pashka Rosso Frizzante
+Secco Paestum 2016, The Alchemist Pappy's Porter
+
+<aside>Recorded on on January 15, 2018.</aside>
