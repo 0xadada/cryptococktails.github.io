@@ -1,10 +1,16 @@
 ---
 layout: page
 title: "Crypto && Cocktails"
-displayTitle: Podcast
+displayTitle: "The Crypto && Cocktails Podcast"
 metaDescription: "THE only podcast about cryptocurrencies that matters."
 metaOgType: "website"
 ---
+
+<figure>
+  <img src="/static/images/meta/logo.jpg"
+    alt="Logo"
+    title="Logo">
+</figure>
 
 <ol class="c-Index">
 {% for post in site.posts %}
