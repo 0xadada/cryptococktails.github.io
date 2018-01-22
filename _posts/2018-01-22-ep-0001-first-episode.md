@@ -3,13 +3,13 @@ layout: page
 title: "Our First Episode - Episode 0001"
 displayTitle: "Our First Episode - Episode 0001"
 date: 2018-01-07 15:15:00
-excerpt: "Our First Episode - Episode 0001"
-metaDescription: "We discuss South Korea, CBOE futures settlements, Coinbase outage..."
+excerpt: "We discuss South Korea, CBOE futures settlements, Coinbase outage, and the Overstock.com hack…"
+metaDescription: "We discuss South Korea, CBOE futures settlements, Coinbase outage, and the Overstock.com hack…"
 metaKeywords: podcast, podcasts, cryptocurrencies, bitcoin
 metaImage: /static/images/meta/apple-touch-icon.png
 metaOgType: "article"
 author: Ron. A
-license: cc-by-nc-sa
+license: cc-by
 ---
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387375959&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>

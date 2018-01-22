@@ -9,8 +9,14 @@ metaOgType: "article"
 metaImage: /static/images/meta/apple-touch-icon.png
 ---
 
-Intro
-
 ## Introduction
 
 A few friends from diverse backgrounds discuss crypto, and have a few drinks.
+
+## Hosts
+
+[Jason](https://twitter.com/jaschang),
+[Matt](https://twitter.com/qtychr),
+[Julie](https://twitter.com/julieieio),
+[Ron](https://twitter.com/0xadada),
+[Garrick](https://twitter.com/garlick811).
