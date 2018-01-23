@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Our First Episode - Episode 0001"
-displayTitle: "Our First Episode - Episode 0001"
+title: "Our First Episode - 0.1.0"
+displayTitle: "Our First Episode - Episode 0.1.0"
 date: 2018-01-07 15:15:00
 excerpt: "We discuss South Korea, CBOE futures settlements, Coinbase outage, and the Overstock.com hack…"
 metaDescription: "We discuss South Korea, CBOE futures settlements, Coinbase outage, and the Overstock.com hack…"
