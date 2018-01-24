@@ -18,5 +18,5 @@ A few friends from diverse backgrounds discuss crypto, and have a few drinks.
 [Jason](https://twitter.com/jaschang),
 [Matt](https://twitter.com/qtychr),
 [Julie](https://twitter.com/julieieio),
-[Ron](https://twitter.com/0xadada),
+[0xADADA](https://twitter.com/0xadada),
 [Garrick](https://twitter.com/garlick811).
