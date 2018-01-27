@@ -8,7 +8,7 @@ metaDescription: "We discuss South Korea, CBOE futures settlements, Coinbase out
 metaKeywords: podcast, podcasts, cryptocurrencies, bitcoin
 metaImage: /static/images/meta/apple-touch-icon.png
 metaOgType: "article"
-author: Ron. A
+author: "0xADADA"
 license: cc-by
 ---
 
