@@ -6,7 +6,7 @@ date: 2018-01-07 15:15:00
 excerpt: "We discuss South Korea, CBOE futures settlements, Coinbase outage, and the Overstock.com hack…"
 metaDescription: "We discuss South Korea, CBOE futures settlements, Coinbase outage, and the Overstock.com hack…"
 metaKeywords: podcast, podcasts, cryptocurrencies, bitcoin
-metaImage: /static/images/2018-01-12-cover.jpg
+metaImage: "/static/images/2018-01-12-cover.jpg"
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by
@@ -17,7 +17,7 @@ license: cc-by
 <figure>
   <img src="/static/images/2018-01-12-cover.jpg"
     alt
-    title">
+    title>
 </figure>
 
 ## South Korea Bans Crypto?
