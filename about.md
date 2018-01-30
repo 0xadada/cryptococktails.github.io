@@ -29,7 +29,7 @@ A few friends from diverse backgrounds discuss crypto, and have a few drinks.
 
 ### R​o​n
 
-[R​o​n](https://twitter.com/0xadada) 🎒🌎👁🔑Backpacker, software engineer & open web enthusiast, privacy and encryption advocate. Recovering techno-utopian. Idealist.
+Backpacker, software engineer & open web enthusiast, privacy and encryption advocate. Recovering techno-utopian. Idealist. You can find him on Twitter at [0xADADA](https://twitter.com/0xadada).
 
 ### Gar
 
