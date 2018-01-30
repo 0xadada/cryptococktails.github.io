@@ -29,7 +29,7 @@ A few friends from diverse backgrounds discuss crypto, and have a few drinks.
 
 ### 0xADADA
 
-[0xADADA](https://twitter.com/0xadada)
+[0xADADA](https://twitter.com/0xadada) 🎒🌎👁🔑Backpacker, software engineer & open web enthusiast, privacy and encryption advocate. Recovering techno-utopian. Idealist.
 
 ### Gar
 
