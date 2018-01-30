@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Our First Episode - v0.1.0"
-displayTitle: "Our First Episode - v0.1.0"
+title: "001 - Our First Episode"
+displayTitle: "001 - Our First Episode"
 date: 2018-01-07 15:15:00
 excerpt: "We discuss South Korea, CBOE futures settlements, Coinbase outage, and the Overstock.com hack…"
 metaDescription: "We discuss South Korea, CBOE futures settlements, Coinbase outage, and the Overstock.com hack…"
 metaKeywords: podcast, podcasts, cryptocurrencies, bitcoin
-metaImage: /static/images/meta/apple-touch-icon.png
+metaImage: /static/images/2018-01-12-cover.jpg
 metaOgType: "article"
 author: "0xADADA"
 license: cc-by
@@ -15,10 +15,9 @@ license: cc-by
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387375959&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 <figure>
-  <img src="/static/images/2017-01-12-uxtos.jpg"
-    alt="UXTOs?"
-    title="UXTOs?">
-<figcaption>UXTOs?</figcaption>
+  <img src="/static/images/2018-01-12-cover.jpg"
+    alt
+    title">
 </figure>
 
 ## South Korea Bans Crypto?
@@ -43,7 +42,7 @@ Once Coinbase comes back online, there is a huge spike in utxos, [and forces the
 transaction fee higher](twitter.com/CivEkonom/status/951693684692701184).
 
 <figure>
-  <img src="/static/images/2017-01-12-uxtos.jpg"
+  <img src="/static/images/2018-01-12-uxtos.jpg"
     alt="Graph showing Coinbase outage resulting in uxto mempool clearing up"
     title="Graph showing Coinbase outage resulting in uxto mempool clearing up">
   <figcaption>Graph showing Coinbase outage resulting in uxto mempool clearing up</figcaption>
