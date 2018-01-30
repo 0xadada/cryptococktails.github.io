@@ -34,3 +34,7 @@ A few friends from diverse backgrounds discuss crypto, and have a few drinks.
 ### Gar
 
 [Gar](https://twitter.com/garlick811).
+
+### Credits
+
+* Theme song: [_Bit Quest_ by Kevin MacLeod](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1500073)
