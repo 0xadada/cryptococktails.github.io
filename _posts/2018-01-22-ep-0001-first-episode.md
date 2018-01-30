@@ -14,6 +14,13 @@ license: cc-by
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387375959&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
+<figure>
+  <img src="/static/images/2018-01-12-uxtos.jpg"
+    alt="UXTOs?"
+    title="UXTOs?">
+<figcaption>UXTOs?</figcaption>
+</figure>
+
 ## South Korea Bans Crypto?
 
 South Korea doesn't want their citizens to pour all money into crypto; yet also
