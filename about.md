@@ -15,7 +15,7 @@ A few friends from diverse backgrounds discuss crypto, and have a few drinks.
 
 ## Hosts
 
-[Jason](https://twitter.com/jaschang)
+[Jason](https://twitter.com/jjjjjjjjson)
 
 
 ### Matt
