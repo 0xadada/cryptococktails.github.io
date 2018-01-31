@@ -15,6 +15,8 @@ A few friends from diverse backgrounds discuss crypto, and have a few drinks.
 
 ## Hosts
 
+### Jason
+
 [Jason](https://twitter.com/jjjjjjjjson)
 
 
