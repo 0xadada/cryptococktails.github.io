@@ -35,7 +35,7 @@ Backpacker, software engineer & open web enthusiast, privacy and encryption advo
 
 ### Gar
 
-[Gar](https://twitter.com/garlick811).
+Background in investments and retail banking.  Trades stocks but not cryptocurrencies...yet.  Lover of dogs, skiing, basketball, and cocktails.  Retired professional egamer before esports was a thing.  You can find him on Twitter at [garlick811](https://twitter.com/garlick811).
 
 ### Credits
 
