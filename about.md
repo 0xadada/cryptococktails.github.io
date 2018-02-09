@@ -15,10 +15,10 @@ A few friends from diverse backgrounds discuss crypto, and have a few drinks.
 
 ## Hosts
 
-### Jason
+### JSON
 
-[Jason](https://twitter.com/jjjjjjjjson)
-
+1. An open-standard file format that uses human-readable text to transmit data objects consisting of attribute–value pairs and array data types.
+2.  A runner, skier, backpacker, and photographer with a background in technology and banking. You can't find him on twitter at [@JJJJJJJJSON](https://twitter.com/jjjjjjjjson).
 
 ### Matt
 
